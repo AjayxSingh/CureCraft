@@ -1,0 +1,25 @@
+# LangChain Core
+langchain
+langchain-core
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+langchain-community
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+pandas
+scikit-learn
+
+# Backend Utilities
+fastapi
+uvicorn[standard]
+python-multipart
+
+accelerate
+jq
